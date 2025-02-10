@@ -1,6 +1,5 @@
 <script lang="ts">
 	import '../app.css'
-	import '@fontsource-variable/open-sans'
 	import type { Snippet } from 'svelte'
 
 	interface Props {
