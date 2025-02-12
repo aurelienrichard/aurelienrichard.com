@@ -1,5 +1,7 @@
 <script lang="ts">
 	import '../app.css'
+	import '@fontsource-variable/bitter'
+	import '@fontsource-variable/quicksand'
 	import type { Snippet } from 'svelte'
 
 	interface Props {
